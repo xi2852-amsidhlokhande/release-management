@@ -9,6 +9,7 @@ public class ReleaseManagementApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ReleaseManagementApplication.class, args);
 		System.out.println("Feature1 Added");
+		System.out.println("Feature2 added");
 		System.out.println("bug1 fixed");
 	}
 
