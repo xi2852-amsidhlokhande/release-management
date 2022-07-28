@@ -8,6 +8,7 @@ public class ReleaseManagementApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ReleaseManagementApplication.class, args);
+		System.out.println("bug1 fixed");
 	}
 
 }
