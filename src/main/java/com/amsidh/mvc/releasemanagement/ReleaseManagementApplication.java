@@ -10,6 +10,7 @@ public class ReleaseManagementApplication {
 		SpringApplication.run(ReleaseManagementApplication.class, args);
 		System.out.println("Feature1 Added");
 		System.out.println("Feature2 added");
+		System.out.println("bug1 fixed");
 	}
 
 }
