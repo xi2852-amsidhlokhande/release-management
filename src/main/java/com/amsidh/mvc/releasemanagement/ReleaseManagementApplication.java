@@ -7,9 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ReleaseManagementApplication {
 
 	public static void main(String[] args) {
-
 		SpringApplication.run(ReleaseManagementApplication.class, args);
 		System.out.println("Feature1 Added");
+		System.out.println("bug1 fixed");
 	}
 
 }
